@@ -3,8 +3,11 @@ Information gathering by entering a host or a website then get full off informat
 
 # Installation 
 > git clone https://github.com/RemaxBoxTeam/R-Gathersiteinfo/
+
 > cd R-Gathersiteinfo
+
 > pip3 install requests pyfiglet colorama 
+
 > python3 gather.py
 
 
